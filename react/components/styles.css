@@ -1,0 +1,12 @@
+.department__select{
+    width: 400px;
+    height: 2.4rem;
+    margin: auto 0;
+    border: none;
+    background-color: white;
+    margin-right: 20px;
+    text-align: center;
+    font-family: 'FranklinGothic';
+    text-transform: uppercase;
+
+}
