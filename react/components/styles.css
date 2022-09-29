@@ -8,5 +8,9 @@
     text-align: center;
     font-family: 'FranklinGothic';
     text-transform: uppercase;
-
+}
+@media screen and (max-width: 440px){
+    .department__select{
+        width: 100px;
+    }  
 }

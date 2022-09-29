@@ -24,7 +24,7 @@ const DepartmentSearch = () => {
            <SearchBar 
            customSearchPageUrl={slug} 
            placeholder="¿Qué buscas en Vans?"
-           displayMode="search-and-clear-buttons"
+           displayMode="clear-button"
            />
         </div>
 }
